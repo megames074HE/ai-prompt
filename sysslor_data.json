@@ -1,0 +1,27 @@
+[
+    {
+        "text": "test test",
+        "category": "Fritid & Övrigt",
+        "done": true
+    },
+    {
+        "text": "jji",
+        "category": "Arbete & Studier",
+        "done": false
+    },
+    {
+        "text": "laga rost på 240n",
+        "category": "Bilarna (240 & 940)",
+        "done": false
+    },
+    {
+        "text": "vaxa 940n",
+        "category": "Bilarna (240 & 940)",
+        "done": false
+    },
+    {
+        "text": "vinterförvara 940n",
+        "category": "Bilarna (240 & 940)",
+        "done": true
+    }
+]
